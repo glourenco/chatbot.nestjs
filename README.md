@@ -59,7 +59,7 @@ Send a message to the chatbot and receive a response.
     Content-Type: application/json
     
     {
-        "text": "What is NestJS"
+        "text": "What is NestJS?"
     }
 
 | Parameter | Type | Description | 
