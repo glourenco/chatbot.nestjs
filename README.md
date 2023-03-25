@@ -17,11 +17,11 @@ Before you can run this API, you will need to have the following installed:
 
 1.  Clone this repository to your local machine.
 
-	git clone https://github.com/glourenco/chatbot.gpt.nodejs
+	git clone https://github.com/glourenco/chatbot.nodejs
 
 2.  Install the dependencies.
 
-	cd chatbot.gpt.nestjs && npm install
+	cd chatbot.nestjs && npm install
 
 3.  Set your OpenAI API key as an environment variable.
 
