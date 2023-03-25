@@ -17,16 +17,15 @@ Before you can run this API, you will need to have the following installed:
 
 1.  Clone this repository to your local machine.
 
-    git clone https://github.com/glourenco/chatbot.gpt.nodejs
+	git clone https://github.com/glourenco/chatbot.gpt.nodejs
 
 2.  Install the dependencies.
 
-    cd chatbot.gpt.nodejs
-    npm install
+	cd chatbot.gpt.nodejs && npm install
 
 3.  Set your OpenAI API key as an environment variable.
 
-`export OPENAI_API_KEY=<YOUR_API_KEY>` 
+    export OPENAI_API_KEY=<YOUR_API_KEY>
 
 ### Running the API
 
